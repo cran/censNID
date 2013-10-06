@@ -1,0 +1,5 @@
+useDynLib(censNID, em)
+
+export(
+"cenNID", "censNID"
+)
